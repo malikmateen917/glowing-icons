@@ -1,2 +1,3 @@
 # glowing-icons
-# glowing cons is beauitiful and expensive
+# glowing icons is beauitiful and expensive
+# the icons is social media icons
